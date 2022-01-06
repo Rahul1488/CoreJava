@@ -1,0 +1,14 @@
+
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(›­¡ÊþÿÿÿÿHïRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ñ­—ÈHðRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»Äÿ«ùÿÿÿÿ8Î»‚úÙ/HñRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(³·—HòRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(žû†áHóRMAJORZ
+CODE_SMELL
+^
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿHôRMINORZ
+CODE_SMELL

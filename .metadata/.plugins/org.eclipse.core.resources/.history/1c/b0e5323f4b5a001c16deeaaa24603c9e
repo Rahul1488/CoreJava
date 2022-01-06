@@ -1,0 +1,11 @@
+package loose_coupling;
+
+public class Owner {
+
+	public static void main(String[] args) {
+	Driver d=new Driver();
+	d.driver(new RollsRoyce());
+
+	}
+
+}

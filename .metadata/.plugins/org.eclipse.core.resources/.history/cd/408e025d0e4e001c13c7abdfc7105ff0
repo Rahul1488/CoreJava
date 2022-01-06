@@ -1,0 +1,10 @@
+package String;
+
+public class StringExample {
+	public static void main(String[] args) {
+		String r = "My Name is Rahul";
+		char result = r.charAt(0);
+		System.out.println(result);
+	}
+}
+

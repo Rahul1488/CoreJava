@@ -1,0 +1,10 @@
+
+h
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8›´ÃÐÙ/HôRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³¹‚«ýÿÿÿÿ8Îß™ÐÙ/HìRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(•§êñ8¹Š¾ÐÙ/HñRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(âä©Ý8Îß™ÐÙ/HëRMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+
+f
+java:S2209	"5Change this instance-reference to a static reference.(¼¼Û–ûÿÿÿÿHûRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºñ‘ÕHýRMINORZ
+CODE_SMELL

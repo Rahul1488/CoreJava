@@ -1,0 +1,14 @@
+class p7
+{
+    public static int add(int i,int j)
+    {
+        int add1=i+j;
+        return add1;
+    }
+    public static void main(String[]args)
+    {
+        int add2=add(5,3);
+        System.out.println(add2);
+    }
+
+}

@@ -1,0 +1,5 @@
+
+j
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(œì³¢ùÿÿÿÿH¢%RMAJORZBUG
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ò°»ýÿÿÿÿH£%RMINORZ
+CODE_SMELL

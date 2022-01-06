@@ -1,0 +1,7 @@
+package multilevelInheritence;
+
+public class MessegeRead {
+public void Messegeread() {
+	System.out.println("messege read");
+}
+}

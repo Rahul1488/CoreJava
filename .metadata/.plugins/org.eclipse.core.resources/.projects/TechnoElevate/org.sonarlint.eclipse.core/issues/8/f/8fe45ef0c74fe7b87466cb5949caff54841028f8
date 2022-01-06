@@ -1,0 +1,20 @@
+
+[
+java:S3740	"/Provide the parametrized type for this generic.(ÿ¡ﬂÕHÖ'RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Éî√Áˇˇˇˇˇ8ßûé¬‹/HÜ'RMAJORZ
+CODE_SMELL
+[
+java:S3740	"/Provide the parametrized type for this generic.(ÿ¡ﬂÕHá'RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(€Ñõ˛˛ˇˇˇˇ8›“ç¬‹/Hà'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°πó“¯ˇˇˇˇ8›“ç¬‹/Hâ'RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(≤›®¶8›“ç¬‹/Hä'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„ø¢‘˘ˇˇˇˇ8›“ç¬‹/Hã'RMAJORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¢ØëHå'RMINORZ
+CODE_SMELL

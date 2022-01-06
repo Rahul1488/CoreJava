@@ -1,0 +1,20 @@
+
+x
+java:S2272="NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(«ŞÄ•ùÿÿÿÿH'RMINORZBUG
+G
+java:S1643-"Use a StringBuilder instead.(æà¯JH'RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¢¯‘H'RMINORZ
+CODE_SMELL
+`
+java:S3740%"/Provide the parametrized type for this generic.(øÍøÿÿÿÿH'RMAJORZ
+CODE_SMELL
+`
+java:S37403"/Provide the parametrized type for this generic.(¤ñ±«øÿÿÿÿH‘'RMAJORZ
+CODE_SMELL
+…
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(°ä¾H’'RMINORZ
+CODE_SMELL
+Y
+java:S11259"(Remove the unnecessary boolean literals.(ç€Í»ùÿÿÿÿH“'RMINORZ
+CODE_SMELL

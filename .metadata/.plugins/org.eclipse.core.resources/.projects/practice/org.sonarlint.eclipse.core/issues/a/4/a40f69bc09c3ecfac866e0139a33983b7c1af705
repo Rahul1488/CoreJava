@@ -1,0 +1,9 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Á©é“üÿÿÿÿHáRMAJORZ
+CODE_SMELL
+j
+java:S2251"9"i" is incremented and will never reach "stop condition".(ÏÚúÕÿÿÿÿÿ8·Ú×ÁÛ/HâRMAJORZBUG
+U
+java:S2189""Correct this loop's end condition.(ÏÚúÕÿÿÿÿÿ8·Ú×ÁÛ/HãRBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(àÕêåşÿÿÿÿHäRMAJORZ
+CODE_SMELL

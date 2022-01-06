@@ -1,0 +1,16 @@
+
+h
+java:S1854"<Remove this useless assignment to local variable "myThread".(ÉşËòH…%RMAJORZ
+CODE_SMELL
+Y
+java:S1481"-Remove this unused "myThread" local variable.(ÉşËòH†%RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÌüãşÿÿÿÿHˆ%RMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡H‰%RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìœ»HŠ%RMINORZ
+CODE_SMELL
+x
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘H‹%RMAJORZ
+CODE_SMELL

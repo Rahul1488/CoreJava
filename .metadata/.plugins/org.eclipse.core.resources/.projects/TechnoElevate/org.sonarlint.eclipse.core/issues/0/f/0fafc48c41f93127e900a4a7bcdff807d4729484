@@ -1,0 +1,12 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¹úÒ”HÁRMAJORZ
+CODE_SMELL
+d	java:S106	"9Replace this use of System.out or System.err by a logger.(¹úÒ”HÂRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¹úÒ”HÃRMAJORZ
+CODE_SMELL
+w
+java:S1192"HDefine a constant instead of duplicating this literal "sum is " 3 times.(¹úÒ”HÄRCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ˆ´ôøÿÿÿÿHÈRMINORZ
+CODE_SMELL

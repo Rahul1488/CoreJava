@@ -1,0 +1,12 @@
+
+c
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿH‡RMINORZ
+CODE_SMELL
+f
+java:S1854"5Remove this useless assignment to local variable "a".(€°î‰ýÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+W
+java:S1481"&Remove this unused "a" local variable.(€°î‰ýÿÿÿÿHŠRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í¢¯‘HŒRMINORZ
+CODE_SMELL

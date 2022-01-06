@@ -1,0 +1,8 @@
+package loose_coupling;
+
+public class Driver extends car {
+public void driver(car car) {
+	car.start();
+	car.accelerate();car.brake();
+}
+}

@@ -1,0 +1,10 @@
+
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(┤Л╣Ў■    HЫ%RMAJORZ
+CODE_SMELL
+Г
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(фа╣АHЬ%RMAJORZBUG
+b
+java:S1135"2Complete the task associated to this TODO comment.(╒╠Ро■    HЭ%RINFOZ
+CODE_SMELL
+К	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ш°їп∙    HЮ%RMINORZ
+CODE_SMELL
